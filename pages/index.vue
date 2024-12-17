@@ -24,7 +24,7 @@
               <img src="@/assets/img/Workshop.jpg" class="d-block w-100" alt="..." />
             </div>
             <div class="carousel-item">
-              <img src="@/assets/img/olahraga.jpg" class="d-block w-100" alt="..." />
+              <img src="@/assets/img/Acara.jpg" class="d-block w-100" alt="..." />
             </div>
           </div>
 
