@@ -18,7 +18,7 @@
               <img src="@/assets/img/ft1.png" class="d-block w-100" alt="..." />
             </div>
             <div class="carousel-item">
-              <img src="@/assets/img/juaraa.jpg" class="d-block w-100" alt="..." />
+              <img src="@/assets/img/SeptiRiding.jpg" class="d-block w-100" alt="..." />
             </div>
             <div class="carousel-item">
               <img src="@/assets/img/srll.jpg" class="d-block w-100" alt="..." />
