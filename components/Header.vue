@@ -7,7 +7,7 @@
         </div>
         <div class="h-text">
           <div class="t-judul">
-            <h2>WEB SCHOOL</h2>
+            <h2>Website SMKN 4 Tasikmalaya</h2>
             <address>
               SMKN 4 TASIKMALAYA
               <h6>JL.DEPOK, SUKAMENAK, PERBARATU</h6>
