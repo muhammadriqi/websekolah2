@@ -47,7 +47,7 @@
     <div class="sambutan-wrapper p-4 rounded-4 shadow-sm "> 
       <!-- Foto kepala sekolah -->
       <div class="photo-container me-4"> 
-        <img src="@/assets/img/KPLAA.jpeg" alt="Foto Kepala Sekolah" class="photo" />
+        <img src="@/assets/img/PaKur.jpg" alt="Foto Kepala Sekolah" class="photo" />
       </div>
       <!-- Teks sambutan -->
       <div class="text-container">
